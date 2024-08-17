@@ -390,7 +390,7 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorflowSlightlyFlexibleUNet/Tiled-Cell/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) score to this <a href="./projects/dataset/Tiled-Cell/test/">Tiled-Cell/test</a> was relatively low, but dice_coef not so high.
+The loss (bce_dice_loss) score to this Tiled-Cell/test was relatively low, but dice_coef not so high.
 <pre>
 loss,0.1136
 dice_coef,0.8121

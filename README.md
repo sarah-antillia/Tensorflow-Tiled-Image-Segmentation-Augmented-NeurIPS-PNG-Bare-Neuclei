@@ -24,7 +24,7 @@ In this experiment, we employed the following strategy:
 which was tiledly-splitted to 512x512
  and reduced to 512x512 image and mask dataset.<br>
 2. We applied the Tiled-Image Segmentation inference method to predict the neuclei regions for the mini_test images 
-with a resolution of 2K pixels. 
+with a resolution of 2K and 4K pixels. 
 <br><br>
 </b>  
 Please note that Tiled-Cell-ImageMask contains two types of images and masks:<br>

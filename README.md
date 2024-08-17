@@ -63,7 +63,7 @@ As shown below, the tiled inferred masks look similar to the ground truth masks.
 
 <hr>
 <br>
-In this experiment, we have used the simple UNet Model 
+In this experiment, we used the simple UNet Model 
 <a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this Cell Segmentation Model.<br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
 you may try other Tensorflow UNet Models:<br>
@@ -78,7 +78,7 @@ you may try other Tensorflow UNet Models:<br>
 <br>
 
 <h3>1. Dataset Citation</h3>
-The original dataset used here has been taken from the following website:<br> 
+The original dataset used here was taken from the following website:<br> 
 
 <a href="https://neurips22-cellseg.grand-challenge.org/dataset/"><b>Weakly Supervised Cell Segmentation in Multi-modality 
 High-Resolution Miscroscopy Images</b>

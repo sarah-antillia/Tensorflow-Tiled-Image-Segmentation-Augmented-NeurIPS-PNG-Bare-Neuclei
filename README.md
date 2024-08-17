@@ -537,7 +537,7 @@ JunMa11 <br>
 <br>
 <b>4. Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-Cell
 </b><br>
-Toshiyuki Arai <br>
+Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-Cell">
 https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-Cell</a>
 <br>

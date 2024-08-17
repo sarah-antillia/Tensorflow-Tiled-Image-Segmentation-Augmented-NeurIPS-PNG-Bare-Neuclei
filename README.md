@@ -20,7 +20,7 @@ We generated the Tiled-PNG-Bare-Nuclei dataset from 86 Brightfield Bare Nuclei p
 In this experiment, we employed the following strategy:
 <b>
 <br>
-1. We trained and validated a TensorFlow UNet model using the Tiled-Cell-ImageMask-Dataset for Bare-Neuclei, 
+1. We trained and validated a TensorFlow UNet model using the Tiled-Cell-ImageMask-Dataset for Bare-Nuclei, 
 which was tiledly-splitted to 512x512
  and reduced to 512x512 image and mask dataset.<br>
 2. We applied the Tiled-Image Segmentation inference method to predict the neuclei regions for the mini_test images 

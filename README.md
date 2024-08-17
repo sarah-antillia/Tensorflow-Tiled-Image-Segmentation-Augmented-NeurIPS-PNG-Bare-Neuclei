@@ -1,17 +1,17 @@
-<h2>Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-PNG-Bare-Neuclei (2024/08/17)</h2>
+<h2>Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-PNG-Bare-Nuclei (2024/08/17)</h2>
 
 This is the second experiment of Tiled Image Segmentation for <a href="https://zenodo.org/records/10719375">NeurIPS 2022 CellSegmentation</a>
  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1q1cDVdAqOPRhVegDUKYgxbRqBvVVnqB2/view?usp=sharing">
-Tiled-Cell-ImageMask-Dataset-PNG-Bare-Neuclei</a>, which was derived by us from the datset of zenodo.org website: 
+Tiled-Cell-ImageMask-Dataset-PNG-Bare-Nuclei</a>, which was derived by us from the datset of zenodo.org website: 
 <a href="https://zenodo.org/records/10719375">NeurIPS 2022 CellSegmentation</a>
 <br>
 <br>
 Please see also the first experiment 
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-Cell">Tensorflow-Tiled-Image-Segmentation-Augmented-NeurIPS-Cell</a>
 <br><br>
-We generated the Tiled-PNG-Bare-Neuclei dataset from 86 Brightfield Bare Neuclei png image files and corresponding label files in  
+We generated the Tiled-PNG-Bare-Nuclei dataset from 86 Brightfield Bare Nuclei png image files and corresponding label files in  
 <a href="https://zenodo.org/records/10719375/files/Training-labeled.zip?download=1">
 <b>Training-labeled</b></a> dataset in <a href="https://zenodo.org/records/10719375">NeurIPS 2022 CellSegmentation</a>
 <br> 
@@ -111,7 +111,7 @@ Zenodo. https://doi.org/10.5281/zenodo.10719375<br>
  If you would like to train this Tiled-Cell Segmentation model by yourself,
  please download the dataset from the google drive 
 <a href="https://drive.google.com/file/d/1q1cDVdAqOPRhVegDUKYgxbRqBvVVnqB2/view?usp=sharing">
-Tiled-Cell-ImageMask-Dataset-PNG-Bare-Neuclei</a>,
+Tiled-Cell-ImageMask-Dataset-PNG-Bare-Nuclei</a>,
 <br>
 expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
 <pre>

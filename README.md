@@ -4,7 +4,7 @@ This is the second experiment of Tiled Image Segmentation for <a href="https://z
  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1q1cDVdAqOPRhVegDUKYgxbRqBvVVnqB2/view?usp=sharing">
-Tiled-Cell-ImageMask-Dataset-PNG-Bare-Neuclei</a>, which was derived by us from zenodo.org website: 
+Tiled-Cell-ImageMask-Dataset-PNG-Bare-Neuclei</a>, which was derived by us from the datset of zenodo.org website: 
 <a href="https://zenodo.org/records/10719375">NeurIPS 2022 CellSegmentation</a>
 <br>
 <br>
